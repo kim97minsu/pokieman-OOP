@@ -122,7 +122,7 @@ For each part, think about:
 9. stop once there are no cards left or not enough to deal 3 to each the player and computer
 
 
-## The `player` object
+## The `player` Object
 
 ### The player should be able to:
 
